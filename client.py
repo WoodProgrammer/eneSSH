@@ -3,7 +3,7 @@
 import socket
 import os
 import crypt
-host = "127.0.0.1"
+host = "ip"
 
 port = 7888
 bufferdata = 1024
